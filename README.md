@@ -1,7 +1,7 @@
 # Exemplos básicos de Javascript
 
 Repositório de exemplos básicos para iniciantes na linguagem de programação usando Javascript. 
-Recomendo que antes de executar os códigos faça teste de mesa para cada código exemplo, simulando a execução com papel e caneta. 
+Recomendo que antes de executar os códigos faça [Teste de Mesa](https://pt.stackoverflow.com/a/220526/4259) para cada código exemplo, simulando a execução com papel e caneta. 
 
 ## Pastas
 
@@ -15,9 +15,9 @@ Dentro da pasta [src](src) os exemplos estão separados por tópicos;
 
 
 ## Praticando
-Recomendo que antes de executar o código, tente realizar a execução com teste de mesa, usando papel e caneta e simulando a execução. Após teste o código no computador e valide se a execução foi a mesma que está no papel.
+Recomendo que antes de executar o código, tente realizar a execução com [Teste de Mesa](https://pt.stackoverflow.com/a/220526/4259), usando papel e caneta e simulando a execução. Após teste o código no computador e valide se a execução foi a mesma que está no papel.
 
-Pratique alterando o código no arquivo e realizando o teste de mesa antes de executar. 
+Pratique alterando o código no arquivo e realizando o [Teste de Mesa](https://pt.stackoverflow.com/a/220526/4259) antes de executar. 
 
 Novos exemplos são bem-vindos!
 
