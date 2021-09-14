@@ -1,7 +1,9 @@
-const a = 1
+const a = 5
 
-if(a > 1){
-    console.log('Maior que 1');
+if(a > 5){
+    console.log('Maior que 5');
+}else if(a < 4){
+    console.log('Menor que 4');
 }else{
-    console.log('Menor igual a 1');
+    console.log('Senão');
 }

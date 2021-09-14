@@ -3,6 +3,8 @@
 Repositório de exemplos básicos para iniciantes na linguagem de programação usando Javascript. 
 Recomendo que antes de executar os códigos faça [Teste de Mesa](https://pt.stackoverflow.com/a/220526/4259) para cada código exemplo, simulando a execução com papel e caneta. 
 
+Novos exemplos são bem-vindos!
+
 ## Pastas
 
 Dentro da pasta [src](src) os exemplos estão separados por tópicos;
@@ -19,7 +21,6 @@ Recomendo que antes de executar o código, tente realizar a execução com [Test
 
 Pratique alterando o código no arquivo e realizando o [Teste de Mesa](https://pt.stackoverflow.com/a/220526/4259) antes de executar. 
 
-Novos exemplos são bem-vindos!
 
 ## Executando
 
