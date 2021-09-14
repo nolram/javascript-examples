@@ -13,6 +13,14 @@ Dentro da pasta [src](src) os exemplos estão separados por tópicos;
 - [src/4-function](src/4-function): Exemplos de código utilizando Funções (mesclando com os exemplos anteriores);
 - [src/5-class](src/5-class): Exemplos de código utilizando Classes (mesclando com os exemplos anteriores);
 
+
+## Praticando
+Recomendo que antes de executar o código, tente realizar a execução com teste de mesa, usando papel e caneta e simulando a execução. Após teste o código no computador e valide se a execução foi a mesma que está no papel.
+
+Pratique alterando o código no arquivo e realizando o teste de mesa antes de executar. 
+
+Novos exemplos são bem-vindos!
+
 ## Executando
 
 Para executar os códigos podem utilizar o console do navegador:
